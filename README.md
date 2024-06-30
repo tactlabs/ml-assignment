@@ -1,4 +1,4 @@
-## ml-assignment
+## AI/ML Assignment
 
 Welcome this ML Assignment (TactLabs/Featurepreneur)
 
