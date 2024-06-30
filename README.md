@@ -1,21 +1,18 @@
-## AI/ML Assignment
+Medium Blog Content Similarity Analysis
+Project Overview
+This project aims to analyze and compare the content of Medium blog posts authored by different users. The goal is to find the similarity between these contents and recommend learning partners based on the analysis. The project also incorporates monitoring the model's performance and data drift using EvidentlyAI.
 
-Welcome this ML Assignment (TactLabs/Featurepreneur)
-
-Assume you got the assignment, this repo will help you to submit it properly. Follow these instructions:
-
-1. Fork this repo so we will watch your ML efforts regularly.
-2. Start working on your assignments and commit the code in this repo every 6 hours.
-3. Our bot will check this repo and forks and validate the code every 6 hours.
-4. You shoud be using git to add and commit files. You are not supposed to "upload files" via browser.
-5. More commits get better clarity on the score. However, more commits is not directly meaning to more score.
-
-### Repo files:
-Your repo should have these:
-1. requirements.txt
-2. README.md (with updated info)
-3. .gitignore
-
-All installation info should be update inthe README.md file.
-
-Happy coding and Good luck on your assignment
+Table of Contents
+Project Overview
+Features
+Installation
+Usage
+Project Structure
+Monitoring with EvidentlyAI
+Contributing
+License
+Features
+Content Extraction: Extracts content from Medium articles using newspaper3k.
+Content Similarity Analysis: Uses TF-IDF and cosine similarity to determine the similarity between different articles.
+Learning Partner Recommendation: Recommends learning partners based on content similarity.
+Model Monitoring: Monitors model performance and data drift using EvidentlyAI.
